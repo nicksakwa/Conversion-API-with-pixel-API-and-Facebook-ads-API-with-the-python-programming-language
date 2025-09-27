@@ -13,7 +13,11 @@ Before diving into this repository, ensure you have the following installed:
     ```bash
     pip install facebook_business
     ```
-3.
+3. Clone the repository you created earlier.
+
+   ```sh
+   git clone https://github.com/nicksakwa/Conversion-API-with-pixel-API-and-Facebook-ads-API-with-the-python-programming-language/
+   ```
 
 ## How to Run Examples
 
